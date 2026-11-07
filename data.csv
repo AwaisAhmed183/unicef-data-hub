@@ -1,0 +1,441 @@
+indicator,indicator_name,country_code,country,year,value,unit,data_source,fetched_on,source_url
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1957,368.196610358209,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1958,362.068536367921,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1959,356.445237823317,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1960,350.550811097808,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1961,345.193254417785,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1962,340.16288192029,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1963,334.982342668731,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1964,329.747572685277,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1965,324.479101546251,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1966,319.532520545591,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1967,314.840118229978,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1968,310.011140165322,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1969,304.920851528628,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1970,300.047739630718,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1971,344.286485974113,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1972,337.910137249894,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1973,284.746880207601,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1974,279.501207190828,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1975,274.217995756602,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1976,268.646042801445,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1977,262.877697240643,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1978,256.940651755683,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1979,251.108891966423,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1980,245.161603903051,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1981,239.011378681369,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1982,277.035182070739,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1983,271.190071031841,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1984,303.820358178728,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1985,296.04744513461,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1986,250.475894740229,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1987,244.224517141228,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1988,194.298539266493,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1989,187.781604787229,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1990,181.384583734027,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1991,175.173283456266,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1992,169.131970216607,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1993,163.536368993548,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1994,158.272356260917,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1995,153.384824820441,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1996,148.773595776566,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1997,144.409539644964,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1998,140.162392712438,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,1999,135.95363948867,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,2000,131.707237184146,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,2001,127.479861753329,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,2002,123.07344698106,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,2003,118.547496515675,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,2004,113.944019411895,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,2005,109.329354079257,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,2006,104.807773175688,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,2007,100.374320591922,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,2008,96.0869144510178,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,2009,91.8807089667426,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,2010,87.9567152953438,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,2011,84.2932228716156,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,2012,80.8145093811916,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,2013,77.5974987280601,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,2014,74.614073412131,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,2015,71.898430064046,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,2016,69.3718842033515,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,2017,67.070567378779,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,2018,64.8232011210301,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,2019,62.7157343545631,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,2020,60.6923210418833,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,2021,58.7116726089786,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,2022,56.7704025164549,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,2023,54.8650977048867,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,AFG,Afghanistan,2024,53.0320211332446,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1950,354.820747840254,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1951,343.68707951368,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1952,333.195240005418,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1953,322.774149037292,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1954,312.83220354141,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1955,303.574948205305,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1956,294.820376096769,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1957,286.423668004796,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1958,278.37062942869,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1959,271.056385052233,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1960,263.591499270881,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1961,256.715433385476,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1962,250.211386102521,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1963,244.083840112603,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1964,238.73176975182,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1965,234.219844006325,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1966,230.854010340854,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1967,228.470800989301,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1968,227.154278701288,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1969,226.967880017624,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1970,271.030965364522,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1971,366.992504406487,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1972,228.82426451951,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1973,229.076847911209,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1974,275.66480699812,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1975,273.047397694074,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1976,224.905519522031,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1977,221.509362815323,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1978,217.232810484664,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1979,212.390050908881,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1980,207.190570588763,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1981,201.757420497955,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1982,196.235203204594,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1983,190.619524107846,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1984,184.732330238169,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1985,178.639454125459,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1986,172.286119642044,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1987,165.811881876257,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1988,159.305132051352,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1989,152.801097142593,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1990,146.47119210335,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1991,140.273772201464,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1992,134.070878088139,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1993,127.82965204977,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1994,121.581290054574,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1995,115.461075979775,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1996,109.377924332329,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1997,103.268590280684,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1998,97.1367055902591,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,1999,91.1957246604746,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,2000,85.513937310242,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,2001,80.1922909021396,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,2002,75.3144779825817,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,2003,70.8406182601023,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,2004,66.7625921766954,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,2005,63.0298829475338,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,2006,59.6041228520006,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,2007,56.4831120145661,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,2008,53.6428506631713,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,2009,51.058980091922,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,2010,48.713379997933,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,2011,46.5340813702017,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,2012,44.4434429768238,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,2013,42.4327669469561,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,2014,40.4588393040223,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,2015,38.5324795847699,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,2016,36.678827803203,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,2017,34.9632914251839,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,2018,33.4784453429206,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,2019,32.2977221431427,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,2020,31.438375822069,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,2021,30.9016939225938,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,2022,30.6612783426437,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,2023,30.6066236496179,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,BGD,Bangladesh,2024,30.4978239397929,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1953,268.197021308553,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1954,264.183223660329,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1955,260.02571413867,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1956,256.026190621265,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1957,252.202863196264,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1958,248.40622783374,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1959,244.791681618108,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1960,241.34759091221,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1961,238.055780521529,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1962,235.01031133345,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1963,232.190140572611,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1964,229.583863731372,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1965,226.961520517526,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1966,224.480242890756,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1967,222.115983782547,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1968,219.741822652455,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1969,217.074868860093,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1970,214.382722442823,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1971,211.443321687355,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1972,208.171131221355,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1973,204.516312304747,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1974,200.550085378007,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1975,196.084939891017,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1976,191.293925532962,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1977,186.121196138441,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1978,180.709153992349,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1979,175.220604222796,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1980,169.809905596997,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1981,164.639316045117,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1982,159.784711089421,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1983,155.238273501289,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1984,150.975397491005,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1985,146.846813415868,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1986,142.837742603975,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1987,138.817635938168,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1988,134.807577267174,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1989,130.851543867226,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1990,127.042248006197,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1991,123.38647271855,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1992,119.871700084028,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1993,116.462077018552,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1994,113.109640237384,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1995,109.700295684713,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1996,106.215680749347,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1997,102.671464225671,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1998,99.0678450469407,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,1999,95.4271575886691,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,2000,91.7821898851014,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,2001,88.1395669656089,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,2002,84.5886668451702,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,2003,81.1076924908512,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,2004,77.6932546705841,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,2005,74.3468963892618,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,2006,71.0304527173247,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,2007,67.7516576343231,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,2008,64.4762509031638,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,2009,61.2494364146638,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,2010,58.0665223357263,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,2011,54.9654415640212,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,2012,51.9787406068544,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,2013,49.094389604486,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,2014,46.3506989656444,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,2015,43.7444426137096,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,2016,41.3028032528644,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,2017,39.0163131558783,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,2018,36.8698060827583,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,2019,34.860835653482,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,2020,32.9770104206312,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,2021,31.1920110854888,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,2022,29.5332770967689,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,2023,27.9935891749794,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,IND,India,2024,26.5799002990667,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1950,343.427966143631,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1951,342.481775322066,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1952,341.642439887193,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1953,340.923549193375,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1954,340.281486965747,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1955,339.436096837431,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1956,338.374730099013,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1957,337.32044381535,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1958,335.42222919563,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1959,332.87045018127,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1960,329.469682996852,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1961,325.393824298882,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1962,320.414115607726,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1963,314.69228482688,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1964,308.213178051334,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1965,301.312822756298,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1966,294.326315580768,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1967,287.370550619608,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1968,280.609743499163,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1969,274.057066146578,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1970,267.812861840977,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1971,261.817380729211,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1972,255.976701336672,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1973,250.276279717041,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1974,244.651229958005,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1975,238.979726356421,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1976,233.255726384715,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1977,227.347186901151,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1978,221.204201714961,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1979,214.708263765853,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1980,208.080298490043,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1981,201.366703191514,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1982,194.692053793091,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1983,187.952201311288,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1984,181.2737701614,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1985,174.463508075094,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1986,167.426001540036,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1987,160.233372943651,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1988,152.976359404457,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1989,145.665971559978,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1990,138.433819309751,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1991,131.27161992227,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1992,124.335119400926,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1993,117.688610895805,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1994,111.363769543381,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1995,105.301333171479,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1996,99.5116250916092,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1997,93.9951043692089,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1998,88.6527760853203,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,1999,83.556141158236,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,2000,78.7357969985038,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,2001,74.2922174589157,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,2002,70.2135010873316,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,2003,66.450884954753,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,2004,63.0819418960277,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,2005,60.0340148151396,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,2006,57.2844055533497,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,2007,54.7373479172978,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,2008,52.365474114042,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,2009,50.0802276642038,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,2010,47.8857679427937,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,2011,45.7557060756791,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,2012,43.6715026457573,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,2013,41.6601501636326,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,2014,39.7073677659964,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,2015,37.7948298224106,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,2016,35.9676300611811,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,2017,34.2278731836915,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,2018,32.5847011658862,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,2019,31.0288187359518,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,2020,29.5830088876444,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,2021,28.2954579257666,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,2022,27.1378882997526,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,2023,26.0875187818162,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,NPL,Nepal,2024,25.1172864419877,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1950,381.371805523286,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1951,365.390621622718,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1952,349.848587522159,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1953,335.321452160082,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1954,321.38172519031,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1955,308.073972222956,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1956,295.599586270163,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1957,283.74416246784,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1958,272.697486034088,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1959,262.475683803166,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1960,252.763298007816,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1961,243.549814180163,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1962,234.975381607809,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1963,226.833959925519,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1964,219.543424949824,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1965,213.051568339463,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1966,207.28381748647,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1967,202.424778105865,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1968,198.062611339597,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1969,194.262685930065,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1970,190.767360601492,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1971,187.475004553153,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1972,184.353695249299,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1973,181.521926647697,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1974,178.881835358944,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1975,176.432420272019,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1976,174.0881254268,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1977,171.931593372728,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1978,169.900312080037,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1979,167.783979361816,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1980,165.702581018741,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1981,163.613515753507,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1982,161.429691291429,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1983,159.079463435514,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1984,156.554838657453,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1985,153.936228007817,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1986,151.261697889619,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1987,148.549058591929,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1988,145.833244981233,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1989,143.144331620714,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1990,140.393157504086,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1991,137.572778652113,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1992,134.616048650309,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1993,131.538584079787,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1994,128.323225984882,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1995,124.958749970636,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1996,121.45825939735,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1997,117.940514848933,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1998,114.460192449806,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,1999,111.075536403848,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,2000,107.922808692138,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,2001,105.050785663714,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,2002,102.454132154432,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,2003,100.133933081883,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,2004,98.0206771941618,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,2005,96.0424789121549,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,2006,94.1596318212324,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,2007,92.3376549549032,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,2008,90.4638746596646,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,2009,88.5101816099843,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,2010,86.452815614819,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,2011,84.2718735939087,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,2012,81.9895758357195,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,2013,79.6143756324305,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,2014,77.1938891550664,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,2015,74.7985485962059,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,2016,72.4293513140003,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,2017,70.1374855135958,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,2018,67.9485211006529,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,2019,65.8289013778319,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,2020,63.7492326730984,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,2021,61.7380934480454,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,2022,59.7256668080768,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,2023,57.8004503541492,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+CME_MRY0T4,Under-five mortality rate,PAK,Pakistan,2024,55.9592821596922,D_PER_1000_B,UN_IGME,2026-11-07,https://sdmx.data.unicef.org
+ED_ROFST_L1,Out-of-school rate for children of primary school age,AFG,Afghanistan,2015,37.0,PCNT,DHS 2015,2026-11-07,https://sdmx.data.unicef.org
+ED_ROFST_L1,Out-of-school rate for children of primary school age,BGD,Bangladesh,2019,6.4000001,PCNT,MICS 2019,2026-11-07,https://sdmx.data.unicef.org
+ED_ROFST_L1,Out-of-school rate for children of primary school age,IND,India,2016,5.9000001,PCNT,DHS 2015-16,2026-11-07,https://sdmx.data.unicef.org
+ED_ROFST_L1,Out-of-school rate for children of primary school age,NPL,Nepal,2019,5.5592418,PCNT,MICS 2019,2026-11-07,https://sdmx.data.unicef.org
+ED_ROFST_L1,Out-of-school rate for children of primary school age,PAK,Pakistan,2018,23.0,PCNT,DHS 2017-18,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),AFG,Afghanistan,1997,53.2,PCNT,Afghanistan 1997 multiple indicator baseline (MICS). Report to UNICEF. Communitiy Information and Epidemiological Technologies Firm (CIET) International  1998.,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),AFG,Afghanistan,2004,59.3,PCNT,Summary report of the national nutrition survey  2004. Kabul  Islamic Republic of Afghanistan  Ministry of Public Health and UNICEF  2005.,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),AFG,Afghanistan,2013,40.4135,PCNT,Afghanistan National Nutrition Survey 2013,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),AFG,Afghanistan,2018,38.1928,PCNT,Afghanistan Health Survey 2018,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),AFG,Afghanistan,2022,44.6043,PCNT,Afghanistan Multiple Indicator Cluster Survey 2022-23  Survey Findings Report,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),BGD,Bangladesh,1986,70.9,PCNT,Bangladesh household expenditure survey 1985-86. Bangladesh bureau of statistics. Dhaka  Bangladesh  1987,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),BGD,Bangladesh,1990,63.4,PCNT,Report of the child nutrition status survey 1989-90. Bangladesh bureau of statistics. Dhaka  Bangladesh  1991,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),BGD,Bangladesh,1991,73.6,PCNT,Nutritional Surveillance Project 1991  data on rural national (using the WHO Child Growth Standards). Unpublished estimates. Dhaka  Bangladesh  HKI and Institute of Public Health Nutrition  2008,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),BGD,Bangladesh,1992,71.5,PCNT,Nutritional Surveillance Project 1992  data on rural national (using the WHO Child Growth Standards). Unpublished estimates. Dhaka  Bangladesh  HKI and Institute of Public Health Nutrition  2008.,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),BGD,Bangladesh,1993,69.2,PCNT,Nutritional Surveillance Project 1993  data on rural national (using the WHO Child Growth Standards). Unpublished estimates. Dhaka  Bangladesh  HKI and Institute of Public Health Nutrition  2008.,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),BGD,Bangladesh,1994,67.3,PCNT,Nutritional Surveillance Project 1994  data on rural national (using the WHO Child Growth Standards). Unpublished estimates. Dhaka  Bangladesh  HKI and Institute of Public Health Nutrition  2008.,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),BGD,Bangladesh,1995,65.8,PCNT,Nutritional Surveillance Project 1995  data on rural national (using the WHO Child Growth Standards). Unpublished estimates. Dhaka  Bangladesh  HKI and Institute of Public Health Nutrition  2008.,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),BGD,Bangladesh,1996,63.8,PCNT,Nutritional Surveillance Project 1996  data on rural national (using the WHO Child Growth Standards). Unpublished estimates. Dhaka  Bangladesh  HKI and Institute of Public Health Nutrition  2008.,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),BGD,Bangladesh,1997,59.5503,PCNT,Bangladesh demographic and health survey 1996-97. Demographic and Health Surveys. National Institute for Population Research and Training. Dhaka  Bangladesh  1997,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),BGD,Bangladesh,1998,59.3,PCNT,Nutritional Surveillance Project 1998  data on rural national (using the WHO Child Growth Standards). Unpublished estimates. Dhaka  Bangladesh  HKI and Institute of Public Health Nutrition  2008.,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),BGD,Bangladesh,1999,59.9,PCNT,Nutritional Surveillance Project 1999  data on rural national (using the WHO Child Growth Standards). Unpublished estimates. Dhaka  Bangladesh  HKI and Institute of Public Health Nutrition  2008.,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),BGD,Bangladesh,2000,51.1185,PCNT,Bangladesh demographic and health survey 1999-2000 (DHS). Dhaka  Bangladesh and Calverton  Maryland  National Institute of Population Research and Training  Mitra and Associates  and ORC Macro  2001,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),BGD,Bangladesh,2001,53.2,PCNT,Nutritional Surveillance Project 2001  data on rural national (using the WHO Child Growth Standards). Unpublished estimates. Dhaka  Bangladesh  HKI and Institute of Public Health Nutrition  2008.,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),BGD,Bangladesh,2002,51.4,PCNT,Nutritional Surveillance Project 2002  data on rural national (using the WHO Child Growth Standards). Unpublished estimates. Dhaka  Bangladesh  HKI and Institute of Public Health Nutrition  2008.,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),BGD,Bangladesh,2003,47.8,PCNT,Nutritional Surveillance Project 2003  data on rural national (using the WHO Child Growth Standards). Unpublished estimates. Dhaka  Bangladesh  HKI and Institute of Public Health Nutrition  2008.,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),BGD,Bangladesh,2004,50.4827,PCNT,Bangladesh demographic and health survey 2004. Demographic and Health Surveys. Dhaka  Bangladesh and Calverton  Maryland [USA]  NIPORT  Mitra and Associates  and ORC Macro  2005,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),BGD,Bangladesh,2005,45.9,PCNT,Nutritional Surveillance Project 2005  Rural data (using the WHO Child Growth Standards). Unpublished estimates. Dhakar  Bangladesh  HKI and Institute of Public Health Nutrition  2007.,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),BGD,Bangladesh,2005,46.2,PCNT,Child and Mother Nutrition Survey of Bangladesh 2005,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),BGD,Bangladesh,2006,45.1,PCNT,Nutritional Surveillance Project 2006  data on rural national data (using the WHO Child Growth Standards). Unpublished estimates. Dhaka  Bangladesh  HKI and Institute of Public Health Nutrition  2008,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),BGD,Bangladesh,2007,43.1892,PCNT,Bangladesh demographic and health survey 2007. DHS. Dhaka  Bangladesh and Calverton  Maryland  USA  National Institute of Population Research and Training  Mitra and Associates  and Macro International  2009,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),BGD,Bangladesh,2011,40.0,PCNT,Bangladesh State of Food Security and Nutrition 2011,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),BGD,Bangladesh,2011,41.257,PCNT,Bangladesh demographic and health survey 2011. Demographic and Health Surveys. Dhaka  Bangladesh and Calverton  Maryland  USA  NIPORT  Mitra and Associates  and ICF International  2013,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),BGD,Bangladesh,2012,44.8787,PCNT,Bangladesh Integrated Household Survey 2011-2012. Washington DC  United States  USAID.,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),BGD,Bangladesh,2012,41.24,PCNT,Bangladesh 2012 Child and Mother Nutrition Survey,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),BGD,Bangladesh,2012,37.0,PCNT,Bangladesh State of Food Security and Nutrition in 2012,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),BGD,Bangladesh,2013,41.9966,PCNT,Bangladesh 2012-13 multiple indicator cluster survey. Final Report. Dhaka  Bangladesh  Bangladesh Bureau of Statistics and UNICEF Bangladesh  2014.,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),BGD,Bangladesh,2013,38.7,PCNT,Utilization of Essential Service Delivery (UESD) Survey 2013. Dhaka  National Institute of Population Research and Training (NIPORT)  2014.,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),BGD,Bangladesh,2013,35.0,PCNT,State of Food security and nutrition in Bangladesh 2013,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),BGD,Bangladesh,2014,35.0,PCNT,State of food security and nutrition in Bangladesh  2014,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),BGD,Bangladesh,2014,36.1755,PCNT,Bangladesh Demographic and Health Survey 2014. Dhaka  Bangladesh  and Rockville  Maryland  USA  NIPORT  Mitra and Associates  and ICF International. 2016,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),BGD,Bangladesh,2015,32.666,PCNT,Bangladesh Integrated Household Survey (BIHS) 2015. Washington  DC  International Food Policy Research Institute (IFPRI),2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),BGD,Bangladesh,2015,35.0,PCNT,State of food security and nutrition in Bangladesh 2015,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),BGD,Bangladesh,2018,30.8789,PCNT,Bangladesh Demographic and Health Survey 2017-18. Dhaka  Bangladesh  and Rockville  Maryland  USA  NIPORT and ICF,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),BGD,Bangladesh,2019,26.1896,PCNT,Bangladesh Integrated Household Survey (BIHS) 2018-2019. Washington  DC  IFPRI. 2020,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),BGD,Bangladesh,2019,27.976,PCNT,Bangladesh Multiple Indicator Cluster Survey 2019  Survey Findings Report. Dhaka  Bangladesh  Bangladesh Bureau of Statistics (BBS),2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),BGD,Bangladesh,2022,23.5593,PCNT,Bangladesh Demographic Health Survey 2022,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),IND,India,1989,62.7,PCNT,National Nutrition Monitoring Bureau  1988-90 (8 States pooled data). Hyderabad  India  1993,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),IND,India,1991,61.9,PCNT,National Nutrition Monitoring Bureau  1991-92 (8 States pooled data). Hyderabad  India  1993,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),IND,India,1992,57.1088,PCNT,National family health survey  India 1992-93. Demographic and Health Surveys. Bombay  India  1995,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),IND,India,1997,45.9,PCNT,Diet and nutrition situation in rural India. Indian Journal of Medical Research 1998 108 243-253,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),IND,India,1999,50.9866,PCNT,National family health survey (NFHS-2) 1998-99. Demographic and Health Surveys. Mumbai  India  2000,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),IND,India,2006,47.7644,PCNT,National family health survey (NFHS-3)  2005-06  India  Demographic and Health Surveys. Mumbai  India  IIPS  2007,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),IND,India,2014,38.7,PCNT,Rapid survey on children 2013-2014. Final Report,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),IND,India,2015,37.9003,PCNT,National Family Health Survey (NFHS-4)  2015-16  India. Mumbai  IIPS. 2017,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),IND,India,2017,36.1239,PCNT,Comprehensive National Nutrition Survey (CNNS) National Report. New Delhi,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),IND,India,2020,35.4742,PCNT,National Family Health Survey (NFHS-5)  2019-21  India. Mumbai  IIPS,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),NPL,Nepal,1995,68.2,PCNT,Nepal multiple indicator surveillance  cycle I  Jan to March 1995 health and nutrition - final report (MICS). Kathmandu  Nepal  1996,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),NPL,Nepal,1996,55.5769,PCNT,Nepal family health survey  1996. Demographic and Health Surveys. Ministry of Health. Kathmandu  Nepal  1997,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),NPL,Nepal,1998,61.0979,PCNT,Nepal micronutrient status survey 1998. Kathmandu  Nepal  Ministry of Health  Child Health Division  HMG/N  New ERA  Micronutrient Initiative  UNICEF Nepal and WHO  2000,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),NPL,Nepal,2001,56.0784,PCNT,Nepal demographic and health survey 2001. Demographic and Health Surveys. Calverton  Maryland  USA  Family Health Division  Ministry of Health  New ERA  and ORC Macro  2002,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),NPL,Nepal,2006,49.1414,PCNT,Nepal demographic and health survey 2006. Demographic and Health Surveys. Kathmandu  Nepal  Ministry of Health and Population  New ERA  and Macro International Inc.  2007,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),NPL,Nepal,2010,41.5,PCNT,Nepal Living Standards Survey 2010-2011  NLSS Third,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),NPL,Nepal,2011,40.076,PCNT,Nepal demographic and health survey 2011. Demographic and Health Surveys. Kathmandu  Nepal  Ministry of Health and Population  New ERA  and ICF International  Calverton  Maryland 2012,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),NPL,Nepal,2014,37.1246,PCNT,Nepal Multiple Indicator Cluster Survey 2014  Final Report,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),NPL,Nepal,2016,37.2104,PCNT,Nepal National Micronutrient Status Survey  2016. Kathmandu  Nepal  Ministry of Health and Population  Nepal 2018,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),NPL,Nepal,2016,35.849,PCNT,Nepal Demographic and Health Survey 2016. Kathmandu  Nepal  Ministry of Health  Nepal. 2017,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),NPL,Nepal,2019,31.5401,PCNT,Nepal Multiple Indicator Cluster Survey 2019  Survey Findings Report. Kathmandu  Nepal  Central Bureau of Statistics and UNICEF Nepal.,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),NPL,Nepal,2022,24.8055,PCNT,Nepal Demographic and Health Survey 2022,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),PAK,Pakistan,1986,62.5,PCNT,National nutrition survey 1985-87 report. National Institute of Health  Nutrition Division. Islamabad  Pakistan  1988,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),PAK,Pakistan,1991,53.9302,PCNT,Pakistan demographic and health survey 1990/91. Demographic and Health Surveys. National Institute of Population Studies. Islamabad  Pakistan  1992,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),PAK,Pakistan,1992,42.7,PCNT,National health survey of Pakistan (NHSP  1990-94)  Health profile of the people of Pakistan. Islamabad  Pakistan  1998,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),PAK,Pakistan,2001,41.4032,PCNT,National nutrition survey 2001-2002. Islamabad  Pakistan  Planning Commission  Government of Pakistan and UNICEF  2004,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),PAK,Pakistan,2011,43.5721,PCNT,National nutrition survey Pakistan  2011. Islamabad  Pakistan  Aga Khan University  PMRC  Government of Pakistan and UNICEF  2012,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),PAK,Pakistan,2013,44.9665,PCNT,Pakistan demographic and health survey 2012-13. Demographic and Health Surveys. Islamabad  Pakistan  and Calverton  Maryland  USA  NIPS and ICF International  2013,2026-11-07,https://sdmx.data.unicef.org
+NT_ANT_HAZ_NE2,Height-for-age <-2 SD (stunting),PAK,Pakistan,2018,37.6296,PCNT,Pakistan Demographic and Health Survey 2017-18. Islamabad  Pakistan  and Rockville  Maryland  USA  NIPS and ICF,2026-11-07,https://sdmx.data.unicef.org

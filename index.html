@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>UNICEF Data Hub — live public data</title>
+<style>
+body { font-family: sans-serif; max-width: 900px; margin: 2em auto; padding: 0 1em; }
+.card { border: 1px solid #888; border-radius: 8px; padding: 1em; margin: 1em 0; }
+.bar { display: inline-block; height: 12px; background: #1F3864; }
+table { border-collapse: collapse; } td, th { border: 1px solid #ccc; padding: 4px 8px; text-align: left; }
+</style>
+</head>
+<body>
+<h1>UNICEF Data Hub</h1>
+<p>Live public data from the UNICEF Data Warehouse (SDMX API, https://sdmx.data.unicef.org).
+Fetched on 2026-11-07. 440 rows, 3 indicators, 5 countries
+(Pakistan, India, Bangladesh, Afghanistan, Nepal). Search and filter work offline once fetched.</p>
+<p><b>This is not UNICEF work.</b> It is a practice hub built to practise the tagging
+and hub tasks in UNICEF Job 596601. It is not SharePoint and not WeShare.
+Verify every number at <a href="https://data.unicef.org">data.unicef.org</a>.</p>
+<p><label>Search <input id="q" type="search" placeholder="try: mortality, stunting, school"></label>
+<label>Topic <select id="topic"><option value="">all</option><option>Health</option><option>Nutrition</option><option>Education</option></select></label></p>
+<p id="count"></p>
+<div id="cards">
+
+<section class="card" data-search="under-five mortality rate health under-five mortality; child survival; health; pakistan cme_mry0t4" data-topic="Health">
+<h2>Under-five mortality rate <small>(CME_MRY0T4)</small></h2>
+<p><b>Topic:</b> Health &nbsp;|&nbsp; <b>Audience:</b> Fundraisers and programme teams</p>
+<p><b>What it means:</b> Deaths of children under 5 per 1,000 live births</p>
+<p><b>Keywords:</b> under-five mortality; child survival; health; Pakistan</p>
+<table><tr><th>Country</th><th>Latest year</th><th>Value</th><th></th></tr><tr><td>Afghanistan</td><td>2024</td><td>53.0</td><td><span class="bar" style="width:208px"></span></td></tr><tr><td>Bangladesh</td><td>2024</td><td>30.5</td><td><span class="bar" style="width:119px"></span></td></tr><tr><td>India</td><td>2024</td><td>26.6</td><td><span class="bar" style="width:104px"></span></td></tr><tr><td>Nepal</td><td>2024</td><td>25.1</td><td><span class="bar" style="width:98px"></span></td></tr><tr><td>Pakistan</td><td>2024</td><td>56.0</td><td><span class="bar" style="width:220px"></span></td></tr></table>
+<p><b>Pakistan trend (last 10 points):</b> 2015: 74.8 &nbsp;·&nbsp; 2016: 72.4 &nbsp;·&nbsp; 2017: 70.1 &nbsp;·&nbsp; 2018: 67.9 &nbsp;·&nbsp; 2019: 65.8 &nbsp;·&nbsp; 2020: 63.7 &nbsp;·&nbsp; 2021: 61.7 &nbsp;·&nbsp; 2022: 59.7 &nbsp;·&nbsp; 2023: 57.8 &nbsp;·&nbsp; 2024: 56.0</p>
+</section>
+<section class="card" data-search="height-for-age &lt;-2 sd (stunting) nutrition stunting; nutrition; child growth; pakistan nt_ant_haz_ne2" data-topic="Nutrition">
+<h2>Height-for-age &lt;-2 SD (stunting) <small>(NT_ANT_HAZ_NE2)</small></h2>
+<p><b>Topic:</b> Nutrition &nbsp;|&nbsp; <b>Audience:</b> Fundraisers and programme teams</p>
+<p><b>What it means:</b> Percent of children under 5 who are stunted</p>
+<p><b>Keywords:</b> stunting; nutrition; child growth; Pakistan</p>
+<table><tr><th>Country</th><th>Latest year</th><th>Value</th><th></th></tr><tr><td>Afghanistan</td><td>2022</td><td>44.6</td><td><span class="bar" style="width:220px"></span></td></tr><tr><td>Bangladesh</td><td>2022</td><td>23.6</td><td><span class="bar" style="width:116px"></span></td></tr><tr><td>India</td><td>2020</td><td>35.5</td><td><span class="bar" style="width:174px"></span></td></tr><tr><td>Nepal</td><td>2022</td><td>24.8</td><td><span class="bar" style="width:122px"></span></td></tr><tr><td>Pakistan</td><td>2018</td><td>37.6</td><td><span class="bar" style="width:185px"></span></td></tr></table>
+<p><b>Pakistan trend (last 7 points):</b> 1986: 62.5 &nbsp;·&nbsp; 1991: 53.9 &nbsp;·&nbsp; 1992: 42.7 &nbsp;·&nbsp; 2001: 41.4 &nbsp;·&nbsp; 2011: 43.6 &nbsp;·&nbsp; 2013: 45.0 &nbsp;·&nbsp; 2018: 37.6</p>
+</section>
+<section class="card" data-search="out-of-school rate for children of primary school age education out of school; primary education; children; pakistan ed_rofst_l1" data-topic="Education">
+<h2>Out-of-school rate for children of primary school age <small>(ED_ROFST_L1)</small></h2>
+<p><b>Topic:</b> Education &nbsp;|&nbsp; <b>Audience:</b> Fundraisers and programme teams</p>
+<p><b>What it means:</b> Percent of primary-school-age children out of school</p>
+<p><b>Keywords:</b> out of school; primary education; children; Pakistan</p>
+<table><tr><th>Country</th><th>Latest year</th><th>Value</th><th></th></tr><tr><td>Afghanistan</td><td>2015</td><td>37.0</td><td><span class="bar" style="width:220px"></span></td></tr><tr><td>Bangladesh</td><td>2019</td><td>6.4</td><td><span class="bar" style="width:38px"></span></td></tr><tr><td>India</td><td>2016</td><td>5.9</td><td><span class="bar" style="width:35px"></span></td></tr><tr><td>Nepal</td><td>2019</td><td>5.6</td><td><span class="bar" style="width:33px"></span></td></tr><tr><td>Pakistan</td><td>2018</td><td>23.0</td><td><span class="bar" style="width:136px"></span></td></tr></table>
+<p><b>Pakistan trend (last 1 points):</b> 2018: 23.0</p>
+</section>
+</div>
+<script>
+function apply() {
+  const q = document.getElementById('q').value.toLowerCase();
+  const t = document.getElementById('topic').value;
+  let shown = 0;
+  document.querySelectorAll('.card').forEach(c => {
+    const ok = (!q || c.dataset.search.includes(q)) && (!t || c.dataset.topic === t);
+    c.style.display = ok ? '' : 'none';
+    if (ok) shown++;
+  });
+  document.getElementById('count').textContent = shown + ' of 3 indicators shown';
+}
+document.getElementById('q').addEventListener('input', apply);
+document.getElementById('topic').addEventListener('change', apply);
+apply();
+</script>
+</body>
+</html>
