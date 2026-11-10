@@ -2,7 +2,7 @@
 
 **Live demo — open it and try the search: https://awaisahmed183.github.io/unicef-data-hub/**
 
-A data hub I built to organise real UNICEF public data — under-5 mortality, stunting, and out-of-school rates for Pakistan, India, Bangladesh, Afghanistan and Nepal — so anyone can find a number fast: search it, filter by topic, and see the latest value per country with the Pakistan trend.
+A data hub I built to organise real UNICEF public data — under-5 mortality, stunting, and out-of-school rates for Pakistan, India, Bangladesh, Afghanistan and Nepal — so anyone can find a number fast and see what it means: key findings up top, country comparison charts, search and filter by topic, the latest value per country with the Pakistan trend, and the full data to download.
 
 The data is fetched live from the UNICEF Data Warehouse (SDMX API, https://sdmx.data.unicef.org), tagged with metadata, and built into a searchable page. **440 rows, 3 indicators, 5 countries**, fetched 10 November 2026.
 
