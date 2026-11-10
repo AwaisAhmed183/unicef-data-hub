@@ -2,59 +2,98 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>UNICEF Data Hub — live public data</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>UNICEF Data Hub — child health and education data, organised</title>
 <style>
-body { font-family: sans-serif; max-width: 900px; margin: 2em auto; padding: 0 1em; }
-.card { border: 1px solid #888; border-radius: 8px; padding: 1em; margin: 1em 0; }
-.bar { display: inline-block; height: 12px; background: #1F3864; }
-table { border-collapse: collapse; } td, th { border: 1px solid #ccc; padding: 4px 8px; text-align: left; }
+* { box-sizing: border-box; }
+body { font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; margin: 0; background: #f4f7f9; color: #1c2b33; line-height: 1.5; }
+header { background: #1cabe2; color: #fff; padding: 2.2em 1em 1.8em; }
+header .wrap, main { max-width: 920px; margin: 0 auto; padding: 0 1em; }
+header h1 { margin: 0 0 .2em; font-size: 2em; }
+header p { margin: .3em 0 0; opacity: .95; }
+.stats { display: flex; flex-wrap: wrap; gap: .6em; margin: 1.2em 0 0; }
+.stat { background: rgba(255,255,255,.16); border: 1px solid rgba(255,255,255,.35); border-radius: 8px; padding: .5em .9em; }
+.stat b { display: block; font-size: 1.25em; }
+.toolbar { background: #fff; border: 1px solid #dbe4e8; border-radius: 10px; padding: .9em 1em; margin: 1.2em 0; display: flex; flex-wrap: wrap; gap: .8em; align-items: center; }
+.toolbar input[type=search] { flex: 1; min-width: 200px; padding: .55em .8em; border: 1px solid #b9c6cc; border-radius: 6px; font-size: 1em; }
+.toolbar select { padding: .55em .6em; border: 1px solid #b9c6cc; border-radius: 6px; font-size: 1em; }
+.card { background: #fff; border: 1px solid #dbe4e8; border-radius: 10px; padding: 1.2em 1.3em; margin: 1.2em 0; box-shadow: 0 1px 3px rgba(0,0,0,.06); }
+.badge { display: inline-block; background: #e6f6fc; color: #0b6e92; border-radius: 20px; padding: .15em .8em; font-size: .85em; font-weight: 600; }
+.card h2 { margin: .4em 0 .2em; }
+.card h2 small { color: #5b6b73; font-weight: 400; }
+.meta { color: #4a5a62; }
+.bar { display: inline-block; height: 12px; background: #1cabe2; border-radius: 2px; }
+table { border-collapse: collapse; width: 100%; margin: .6em 0; } td, th { border-bottom: 1px solid #e3e9ec; padding: 6px 8px; text-align: left; }
+th { color: #4a5a62; font-size: .9em; }
+.trend { background: #f0f7fa; border-radius: 6px; padding: .6em .8em; }
+section.sharepoint img { max-width: 100%; border: 1px solid #dbe4e8; border-radius: 8px; }
+footer { max-width: 920px; margin: 2em auto; padding: 0 1em 2em; color: #5b6b73; font-size: .92em; }
 </style>
 </head>
 <body>
+<header><div class="wrap">
 <h1>UNICEF Data Hub</h1>
-<p>Live public data from the UNICEF Data Warehouse (SDMX API, https://sdmx.data.unicef.org).
-Fetched on 2026-11-07. 440 rows, 3 indicators, 5 countries
-(Pakistan, India, Bangladesh, Afghanistan, Nepal). Search and filter work offline once fetched.</p>
-<p><b>This is not UNICEF work.</b> It is a practice hub built to practise the tagging
-and hub tasks in UNICEF Job 596601. It is not SharePoint and not WeShare.
-Verify every number at <a href="https://data.unicef.org">data.unicef.org</a>.</p>
-<p><label>Search <input id="q" type="search" placeholder="try: mortality, stunting, school"></label>
-<label>Topic <select id="topic"><option value="">all</option><option>Health</option><option>Nutrition</option><option>Education</option></select></label></p>
-<p id="count"></p>
+<p>Real public data on child health and education, organised and tagged — so anyone can find a number fast.</p>
+<div class="stats">
+<div class="stat"><b>440</b>rows</div>
+<div class="stat"><b>3</b>indicators</div>
+<div class="stat"><b>5</b>countries</div>
+<div class="stat"><b>2026-11-10</b>fetched</div>
+</div>
+</div></header>
+<main>
+<p>Data from the UNICEF Data Warehouse (SDMX API, https://sdmx.data.unicef.org), covering Pakistan, India, Bangladesh, Afghanistan and Nepal. Search and filter work offline once the page is loaded. This is my own project — it is not UNICEF work and not an official UNICEF page. Verify every number at <a href="https://data.unicef.org">data.unicef.org</a>.</p>
+<div class="toolbar">
+<label>Search <input id="q" type="search" placeholder="try: mortality, stunting, school"></label>
+<label>Topic <select id="topic"><option value="">all</option><option>Health</option><option>Nutrition</option><option>Education</option></select></label>
+<span id="count"></span>
+</div>
 <div id="cards">
 
 <section class="card" data-search="under-five mortality rate health under-five mortality; child survival; health; pakistan cme_mry0t4" data-topic="Health">
+<span class="badge">Health</span>
 <h2>Under-five mortality rate <small>(CME_MRY0T4)</small></h2>
-<p><b>Topic:</b> Health &nbsp;|&nbsp; <b>Audience:</b> Fundraisers and programme teams</p>
+<p class="meta"><b>Audience:</b> Fundraisers and programme teams</p>
 <p><b>What it means:</b> Deaths of children under 5 per 1,000 live births</p>
-<p><b>Keywords:</b> under-five mortality; child survival; health; Pakistan</p>
+<p class="meta"><b>Keywords:</b> under-five mortality; child survival; health; Pakistan</p>
 <table><tr><th>Country</th><th>Latest year</th><th>Value</th><th></th></tr><tr><td>Afghanistan</td><td>2024</td><td>53.0</td><td><span class="bar" style="width:208px"></span></td></tr><tr><td>Bangladesh</td><td>2024</td><td>30.5</td><td><span class="bar" style="width:119px"></span></td></tr><tr><td>India</td><td>2024</td><td>26.6</td><td><span class="bar" style="width:104px"></span></td></tr><tr><td>Nepal</td><td>2024</td><td>25.1</td><td><span class="bar" style="width:98px"></span></td></tr><tr><td>Pakistan</td><td>2024</td><td>56.0</td><td><span class="bar" style="width:220px"></span></td></tr></table>
-<p><b>Pakistan trend (last 10 points):</b> 2015: 74.8 &nbsp;·&nbsp; 2016: 72.4 &nbsp;·&nbsp; 2017: 70.1 &nbsp;·&nbsp; 2018: 67.9 &nbsp;·&nbsp; 2019: 65.8 &nbsp;·&nbsp; 2020: 63.7 &nbsp;·&nbsp; 2021: 61.7 &nbsp;·&nbsp; 2022: 59.7 &nbsp;·&nbsp; 2023: 57.8 &nbsp;·&nbsp; 2024: 56.0</p>
+<p class="trend"><b>Pakistan trend (last 10 points):</b> 2015: 74.8 &nbsp;·&nbsp; 2016: 72.4 &nbsp;·&nbsp; 2017: 70.1 &nbsp;·&nbsp; 2018: 67.9 &nbsp;·&nbsp; 2019: 65.8 &nbsp;·&nbsp; 2020: 63.7 &nbsp;·&nbsp; 2021: 61.7 &nbsp;·&nbsp; 2022: 59.7 &nbsp;·&nbsp; 2023: 57.8 &nbsp;·&nbsp; 2024: 56.0</p>
 </section>
 <section class="card" data-search="height-for-age &lt;-2 sd (stunting) nutrition stunting; nutrition; child growth; pakistan nt_ant_haz_ne2" data-topic="Nutrition">
+<span class="badge">Nutrition</span>
 <h2>Height-for-age &lt;-2 SD (stunting) <small>(NT_ANT_HAZ_NE2)</small></h2>
-<p><b>Topic:</b> Nutrition &nbsp;|&nbsp; <b>Audience:</b> Fundraisers and programme teams</p>
+<p class="meta"><b>Audience:</b> Fundraisers and programme teams</p>
 <p><b>What it means:</b> Percent of children under 5 who are stunted</p>
-<p><b>Keywords:</b> stunting; nutrition; child growth; Pakistan</p>
+<p class="meta"><b>Keywords:</b> stunting; nutrition; child growth; Pakistan</p>
 <table><tr><th>Country</th><th>Latest year</th><th>Value</th><th></th></tr><tr><td>Afghanistan</td><td>2022</td><td>44.6</td><td><span class="bar" style="width:220px"></span></td></tr><tr><td>Bangladesh</td><td>2022</td><td>23.6</td><td><span class="bar" style="width:116px"></span></td></tr><tr><td>India</td><td>2020</td><td>35.5</td><td><span class="bar" style="width:174px"></span></td></tr><tr><td>Nepal</td><td>2022</td><td>24.8</td><td><span class="bar" style="width:122px"></span></td></tr><tr><td>Pakistan</td><td>2018</td><td>37.6</td><td><span class="bar" style="width:185px"></span></td></tr></table>
-<p><b>Pakistan trend (last 7 points):</b> 1986: 62.5 &nbsp;·&nbsp; 1991: 53.9 &nbsp;·&nbsp; 1992: 42.7 &nbsp;·&nbsp; 2001: 41.4 &nbsp;·&nbsp; 2011: 43.6 &nbsp;·&nbsp; 2013: 45.0 &nbsp;·&nbsp; 2018: 37.6</p>
+<p class="trend"><b>Pakistan trend (last 7 points):</b> 1986: 62.5 &nbsp;·&nbsp; 1991: 53.9 &nbsp;·&nbsp; 1992: 42.7 &nbsp;·&nbsp; 2001: 41.4 &nbsp;·&nbsp; 2011: 43.6 &nbsp;·&nbsp; 2013: 45.0 &nbsp;·&nbsp; 2018: 37.6</p>
 </section>
 <section class="card" data-search="out-of-school rate for children of primary school age education out of school; primary education; children; pakistan ed_rofst_l1" data-topic="Education">
+<span class="badge">Education</span>
 <h2>Out-of-school rate for children of primary school age <small>(ED_ROFST_L1)</small></h2>
-<p><b>Topic:</b> Education &nbsp;|&nbsp; <b>Audience:</b> Fundraisers and programme teams</p>
+<p class="meta"><b>Audience:</b> Fundraisers and programme teams</p>
 <p><b>What it means:</b> Percent of primary-school-age children out of school</p>
-<p><b>Keywords:</b> out of school; primary education; children; Pakistan</p>
+<p class="meta"><b>Keywords:</b> out of school; primary education; children; Pakistan</p>
 <table><tr><th>Country</th><th>Latest year</th><th>Value</th><th></th></tr><tr><td>Afghanistan</td><td>2015</td><td>37.0</td><td><span class="bar" style="width:220px"></span></td></tr><tr><td>Bangladesh</td><td>2019</td><td>6.4</td><td><span class="bar" style="width:38px"></span></td></tr><tr><td>India</td><td>2016</td><td>5.9</td><td><span class="bar" style="width:35px"></span></td></tr><tr><td>Nepal</td><td>2019</td><td>5.6</td><td><span class="bar" style="width:33px"></span></td></tr><tr><td>Pakistan</td><td>2018</td><td>23.0</td><td><span class="bar" style="width:136px"></span></td></tr></table>
-<p><b>Pakistan trend (last 1 points):</b> 2018: 23.0</p>
+<p class="trend"><b>Pakistan trend (last 1 points):</b> 2018: 23.0</p>
 </section>
 </div>
+<section class="card sharepoint">
+<h2>Same data in SharePoint</h2>
+<p>The same 440 rows are also published as a SharePoint list, with metadata on every row — indicator, country, year, value, unit and source — so the content stays organised, tagged and findable. The SharePoint site lives in my student Microsoft 365 tenant, so it opens only for people in that tenant; the screenshot below is the proof.</p>
+<img src="docs/sharepoint-list.png" alt="SharePoint list showing the 440 UNICEF data rows with metadata columns">
+</section>
+</main>
+<footer>
+<p>Built by Awais Ahmed Shah, final-year BS Data Science student, UET Peshawar. Data: UNICEF Data Warehouse, public SDMX API. Figures are UNICEF estimates and can be revised — check the latest at <a href="https://data.unicef.org">data.unicef.org</a>.</p>
+</footer>
 <script>
 function apply() {
   const q = document.getElementById('q').value.toLowerCase();
   const t = document.getElementById('topic').value;
   let shown = 0;
-  document.querySelectorAll('.card').forEach(c => {
-    const ok = (!q || c.dataset.search.includes(q)) && (!t || c.dataset.topic === t);
+  document.querySelectorAll('#cards .card').forEach(c => {
+    const ok = (!q || (c.dataset.search || '').includes(q)) && (!t || c.dataset.topic === t);
     c.style.display = ok ? '' : 'none';
     if (ok) shown++;
   });
